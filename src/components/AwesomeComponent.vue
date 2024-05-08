@@ -1,3 +1,4 @@
+//Övning 1-2 6maj 2024
 <script setup lang="ts">
 import { ref } from "vue";
 
