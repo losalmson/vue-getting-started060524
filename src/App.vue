@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<!-- <script setup lang="ts">
   import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
@@ -27,7 +27,7 @@
   .logo.vue:hover {
     filter: drop-shadow(0 0 2em #42b883aa);
   }
-</style>
+</style> -->
 
 <script setup lang="ts">
   import AwesomeComponent from "./components/AwesomeComponent.vue";
