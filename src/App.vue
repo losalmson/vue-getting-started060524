@@ -28,3 +28,11 @@
     filter: drop-shadow(0 0 2em #42b883aa);
   }
 </style>
+
+<script setup lang="ts">
+  import AwesomeComponent from "./components/AwesomeComponent.vue";
+</script>
+
+<template>
+  <AwesomeComponent msg="This is why components are awesome" />
+</template>
